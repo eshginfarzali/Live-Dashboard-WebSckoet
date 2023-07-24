@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "nodemon": "^3.0.1",
+    "ws": "^8.13.0"
+  },
+  "name": "javascript-task-15-eshginfarzali",
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/gng-d7X4)\r # Live Chart App",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
