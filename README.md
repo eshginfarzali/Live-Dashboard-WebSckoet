@@ -16,3 +16,5 @@
 
 - use websocket to receive datas and update chart
 
+![](./ezgif.com-add-text.gif)
+
